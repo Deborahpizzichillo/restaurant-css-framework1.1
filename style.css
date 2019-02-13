@@ -1,0 +1,17 @@
+.jumbotron {
+  background-image: url('https://images.adsttc.com/media/images/54b0/983b/e58e/ceda/bc00/005c/large_jpg/AK-A_48_Urban_Garden_26.jpg?1420859437');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  min-height: 700px;
+}
+
+.img {
+  margin-bottom: 5px;
+}
+
+.title-welcome .title.menu .title-restaurants .title-contacts {
+  font-family: 'Noto Sans SC', sans-serif;
+
+}
+
